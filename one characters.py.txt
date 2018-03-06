@@ -1,0 +1,11 @@
+c=input("enter name:")
+
+d=input("enter name:")
+
+if c==d:
+
+   print("yes")
+
+else:
+
+   print("no")
