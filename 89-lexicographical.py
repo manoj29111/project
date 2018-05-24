@@ -1,0 +1,5 @@
+c=input("Enter any string")
+l=list(c)
+l.sort()
+e=''.join(l)
+print(e)
